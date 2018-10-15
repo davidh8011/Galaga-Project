@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Ship.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Shot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ArrayList2.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Fighter.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemy1.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemy2.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ArrayListEnemy.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ArrayListShot.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Powerup.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ship.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Shot.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ArrayList2.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Fighter.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Enemy1.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Enemy2.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ArrayListEnemy.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ArrayListShot.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Powerup.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>

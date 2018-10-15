@@ -1,0 +1,3 @@
+﻿  ofApp.cpp
+src\ofApp.cpp(10): error C2065: 'b': undeclared identifier
+src\ofApp.cpp(10): error C2146: syntax error: missing ';' before identifier 'spread'
